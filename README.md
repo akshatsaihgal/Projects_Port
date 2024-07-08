@@ -33,3 +33,12 @@ This Repository will hold all of the code and queries of the projects we made.
    Director
    Cast
    Production company
+
+4. BMI Calculator -
+   This BMI Calculator project calculates Body Mass Index (BMI) based on the input of weight (in kilograms or pounds) and height (in centimeters or inches). BMI is a measure of body fat based on an individual's 
+   weight in relation to their height.
+
+   Features -
+   Calculate BMI using metric (kilograms, centimeters) or imperial (pounds, inches) units.
+   Interpret and categorize BMI based on standard categories (underweight, normal weight, overweight, obese).
+   Simple and intuitive user interface.
